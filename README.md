@@ -9,7 +9,7 @@ We can find sqrt.For sqrt need to provide value in Num1<br>
 Java,Anroid studio,XML<br>
 <h3>Setup Instructions:</h3><br>
 provide 2 numbers num1 and num2 and select Arithmetic operator<br>
-<h3>Screenshots</h3>:
+<h3>Screenshots</h3>
 ![Screenshot 1](https://github.com/Ritiksagar-1008/Calculator/blob/main/images/Screenshot%202025-02-10%20152134.png)
 ![Screenshot 2](https://github.com/Ritiksagar-1008/Calculator/blob/main/images/Screenshot%202025-02-10%20152208.png)
 <h3>Author Information:</h3><br>
